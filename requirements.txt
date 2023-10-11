@@ -1,0 +1,15 @@
+## Core Requirements ##
+torch
+torchvision
+jax
+scvi
+scanpy
+pandas
+anndata
+pymde
+Pillow
+squidpy
+opencv-python
+jupyter-dash
+plotly
+jupyterlab
